@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://srtecheducation-lab.github.io/jnvst-guru-web/sitemap.xml
